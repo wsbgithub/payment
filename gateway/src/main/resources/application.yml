@@ -1,0 +1,5 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: gateway # 注册中心名字application.yml
